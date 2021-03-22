@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # [![](images/icons/32x32.png) JS Paint](https://jspaint.app)
 
 A nice web-based MS Paint remake and more... [Try it out!](https://jspaint.app)
@@ -181,3 +182,5 @@ You can build for production with `npm run make`
 [Node.js]: https://nodejs.org/
 [electron-debug]: https://github.com/sindresorhus/electron-debug
 [devtron]: https://electronjs.org/devtron
+=======
+>>>>>>> d0f901b087196cf763541bb2aae1c7bb7255830d
