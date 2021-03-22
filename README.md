@@ -147,7 +147,7 @@ Install [Node.js][] if you don't have it, then open up a command prompt / termin
 
 ### Testing
 
-Run `npm run lint` to check for code problems.
+Run `   npm run lint` to check for code problems.
 
 Run `npm test` to run browser-based tests with Cypress. (It's slow to start up and run tests, unfortunately.)
 
