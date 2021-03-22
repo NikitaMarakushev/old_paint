@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 # [![](images/icons/32x32.png) JS Paint](https://jspaint.app)
 
 A nice web-based MS Paint remake and more... [Try it out!](https://jspaint.app)
